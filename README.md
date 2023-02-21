@@ -4,7 +4,7 @@ Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar ness
 mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https://github.com/oerlabshenrique)
 
 
-![OER Labs GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+![OER Labs GitHub stats](https://github-readme-stats.vercel.app/api?username=oerlabshenrique&show_icons=true&theme=tokyonight)
  
  
 <div style="display: inline_block"><br>
