@@ -1,5 +1,3 @@
-## README.md
-
 ## OER Labs
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
