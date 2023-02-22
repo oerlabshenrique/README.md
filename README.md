@@ -29,7 +29,6 @@ mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https:/
  
 
   
-  ![Snake animation](https://github.com/oerlabshenrique/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
