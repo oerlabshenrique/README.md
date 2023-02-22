@@ -12,23 +12,7 @@ mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https:/
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src= "https://icongr.am/devicon/java-original-wordmark.svg">
-  <img align="center" alt="Rafa-Csharp" height="30" width="40" src= "https://icongr.am/devicon/mysql-original-wordmark.svg">
- 
-
- 
-
-
-
-)">
- 
- https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor
-
-
- 
- <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg>
-          
+  <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">       
  </div>
   
   ##
