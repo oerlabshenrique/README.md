@@ -29,7 +29,6 @@ mas você pode adicionar a sua própria, seguindo esse [Git da OER Labs](https:/
  
 
   
- 
 </div>
 
 
